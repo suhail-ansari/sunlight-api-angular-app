@@ -1,0 +1,1010 @@
+{
+  "results": [{
+    "bill_id": "hr5929-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSED"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-25",
+    "last_action_at": "2016-07-25",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-25",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5929-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5929ih/html/BILLS-114hr5929ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5929ih/pdf/BILLS-114hr5929ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5929ih/xml/BILLS-114hr5929ih.xml"
+      },
+      "pages": 2
+    },
+    "last_version_on": "2016-07-25",
+    "last_vote_at": null,
+    "number": 5929,
+    "official_title": "To amend the Occupational Safety and Health Act of 1970 to require employers to provide menstrual hygiene products for employees.",
+    "popular_title": null,
+    "related_bill_ids": ["hr5915-114"],
+    "short_title": "Menstrual Products for Employees Act",
+    "sponsor": {
+      "first_name": "Grace",
+      "last_name": "Meng",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "M001188",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5929",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5929",
+      "opencongress": "https://www.opencongress.org/bill/hr5929-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5930-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSJU", "HSJU10"],
+    "congress": 114,
+    "cosponsors_count": 40,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-25",
+    "last_action_at": "2016-08-10",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-25",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5930-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5930ih/html/BILLS-114hr5930ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5930ih/pdf/BILLS-114hr5930ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5930ih/xml/BILLS-114hr5930ih.xml"
+      },
+      "pages": 12
+    },
+    "last_version_on": "2016-07-25",
+    "last_vote_at": null,
+    "number": 5930,
+    "official_title": "To establish the Commission on the Social Status of Black Men and Boys, to study and make recommendations to address social problems affecting Black men and boys.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "Commission on the Social Status of Black Men and Boys Act",
+    "sponsor": {
+      "first_name": "Frederica",
+      "last_name": "Wilson",
+      "middle_name": "S.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "W000808",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5930",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5930",
+      "opencongress": "https://www.opencongress.org/bill/hr5930-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5927-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSIF"],
+    "congress": 114,
+    "cosponsors_count": 1,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-25",
+    "last_action_at": "2016-07-25",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-25",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5927-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5927ih/html/BILLS-114hr5927ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5927ih/pdf/BILLS-114hr5927ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5927ih/xml/BILLS-114hr5927ih.xml"
+      },
+      "pages": 3
+    },
+    "last_version_on": "2016-07-25",
+    "last_vote_at": null,
+    "number": 5927,
+    "official_title": "To delay for one year the release of the Overall Hospital Quality Star Ratings, and for other purposes.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "Hospital Quality Rating Transparency Act of 2016",
+    "sponsor": {
+      "first_name": "James",
+      "last_name": "Renacci",
+      "middle_name": "B.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "R000586",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5927",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5927",
+      "opencongress": "https://www.opencongress.org/bill/hr5927-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5928-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSBA"],
+    "congress": 114,
+    "cosponsors_count": 1,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-25",
+    "last_action_at": "2016-07-25",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-25",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5928-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5928ih/html/BILLS-114hr5928ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5928ih/pdf/BILLS-114hr5928ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5928ih/xml/BILLS-114hr5928ih.xml"
+      },
+      "pages": 3
+    },
+    "last_version_on": "2016-07-25",
+    "last_vote_at": null,
+    "number": 5928,
+    "official_title": "To amend the Consumer Financial Protection Act of 2010 to establish requirements relating to rent-to-own transactions, and for other purposes.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "Expanding Rent-to-Own Protections Act of 2016",
+    "sponsor": {
+      "first_name": "John",
+      "last_name": "Delaney",
+      "middle_name": "K.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "D000620",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5928",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5928",
+      "opencongress": "https://www.opencongress.org/bill/hr5928-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hres840-114",
+    "bill_type": "hres",
+    "chamber": "house",
+    "committee_ids": ["HSIF"],
+    "congress": 114,
+    "cosponsors_count": 1,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-25",
+    "last_action_at": "2016-07-25",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-25",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hres840-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hres840ih/html/BILLS-114hres840ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hres840ih/pdf/BILLS-114hres840ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hres840ih/xml/BILLS-114hres840ih.xml"
+      },
+      "pages": 3
+    },
+    "last_version_on": "2016-07-25",
+    "last_vote_at": null,
+    "number": 840,
+    "official_title": "Expressing support for designation of the week of October 30 through November 5, 2016, as \"National Obesity Care Week\".",
+    "popular_title": null,
+    "related_bill_ids": ["sres536-114"],
+    "short_title": null,
+    "sponsor": {
+      "first_name": "Erik",
+      "last_name": "Paulsen",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "P000594",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-resolution/840",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hres840",
+      "opencongress": "https://www.opencongress.org/bill/hres840-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5920-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSAS", "HSGO"],
+    "congress": 114,
+    "cosponsors_count": 4,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5920-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920ih/html/BILLS-114hr5920ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920ih/pdf/BILLS-114hr5920ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920ih/xml/BILLS-114hr5920ih.xml"
+      },
+      "pages": 4
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 5920,
+    "official_title": "To enhance whistleblower protection for contractor and grantee employees.",
+    "popular_title": null,
+    "related_bill_ids": ["s795-114", "s3011-114"],
+    "short_title": "Whistleblower Protections for Contractors Act",
+    "sponsor": {
+      "first_name": "Elijah",
+      "last_name": "Cummings",
+      "middle_name": "E.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "C000984",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5920",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5920",
+      "opencongress": "https://www.opencongress.org/bill/hr5920-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5922-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSGO"],
+    "congress": 114,
+    "cosponsors_count": 2,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5922-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5922ih/html/BILLS-114hr5922ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5922ih/pdf/BILLS-114hr5922ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5922ih/xml/BILLS-114hr5922ih.xml"
+      },
+      "pages": 7
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 5922,
+    "official_title": "To provide for the identification and prevention of improper payments and the identification of strategic sourcing opportunities by reviewing and analyzing the use of Federal agency charge cards.",
+    "popular_title": null,
+    "related_bill_ids": ["s1616-114"],
+    "short_title": "Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2016",
+    "sponsor": {
+      "first_name": "Tammy",
+      "last_name": "Duckworth",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "D000622",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5922",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5922",
+      "opencongress": "https://www.opencongress.org/bill/hr5922-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5926-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSAP"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "new": true,
+      "active_at": "2016-07-22",
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-22",
+    "last_action_at": "2016-07-22",
+    "last_version": {
+      "version_code": "rh",
+      "issued_on": "2016-07-22",
+      "version_name": "Reported in House",
+      "bill_version_id": "hr5926-114-rh",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5926rh/html/BILLS-114hr5926rh.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5926rh/pdf/BILLS-114hr5926rh.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5926rh/xml/BILLS-114hr5926rh.xml"
+      },
+      "pages": 170
+    },
+    "last_version_on": "2016-07-22",
+    "last_vote_at": null,
+    "number": 5926,
+    "official_title": "Making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2017, and for other purposes.",
+    "popular_title": null,
+    "related_bill_ids": ["hr940-114", "s1919-114", "s3040-114"],
+    "short_title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2017",
+    "sponsor": {
+      "first_name": "Tom",
+      "last_name": "Cole",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "C001053",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5926",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5926",
+      "opencongress": "https://www.opencongress.org/bill/hr5926-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5923-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSIF"],
+    "congress": 114,
+    "cosponsors_count": 1,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5923-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5923ih/html/BILLS-114hr5923ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5923ih/pdf/BILLS-114hr5923ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5923ih/xml/BILLS-114hr5923ih.xml"
+      },
+      "pages": 4
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 5923,
+    "official_title": "To amend the Public Health Service Act to authorize the Secretary of Health and Human Services to make grants to eligible entities to train elementary and secondary school nurses on how to respond to a biological or chemical attack or an outbreak of pandemic illness in a school building or on school grounds.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "School Protection Act of 2016",
+    "sponsor": {
+      "first_name": "Steve",
+      "last_name": "Israel",
+      "middle_name": "J.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "I000057",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5923",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5923",
+      "opencongress": "https://www.opencongress.org/bill/hr5923-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5918-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSED"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-18",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5918-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5918ih/html/BILLS-114hr5918ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5918ih/pdf/BILLS-114hr5918ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5918ih/xml/BILLS-114hr5918ih.xml"
+      },
+      "pages": 3
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5918,
+    "official_title": "To establish requirements for participants in the peer-to-peer economy to be considered independent contractors and not employees for purposes of several employment-related statutes.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": null,
+    "sponsor": {
+      "first_name": "David",
+      "last_name": "Schweikert",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "S001183",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5918",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5918",
+      "opencongress": "https://www.opencongress.org/bill/hr5918-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5914-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSII", "HSII24"],
+    "congress": 114,
+    "cosponsors_count": 3,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-22",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5914-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5914ih/html/BILLS-114hr5914ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5914ih/pdf/BILLS-114hr5914ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5914ih/xml/BILLS-114hr5914ih.xml"
+      },
+      "pages": 1
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5914,
+    "official_title": "To repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".",
+    "popular_title": null,
+    "related_bill_ids": ["s3216-114"],
+    "short_title": null,
+    "sponsor": {
+      "first_name": "Rod",
+      "last_name": "Blum",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "B001294",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5914",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5914",
+      "opencongress": "https://www.opencongress.org/bill/hr5914-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5917-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSWM"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-18",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5917-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5917ih/html/BILLS-114hr5917ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5917ih/pdf/BILLS-114hr5917ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5917ih/xml/BILLS-114hr5917ih.xml"
+      },
+      "pages": 4
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5917,
+    "official_title": "To amend the Internal Revenue Code of 1986 to provide a refundable credit for menstrual products.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "Menstrual Products Tax Credit Act of 2016",
+    "sponsor": {
+      "first_name": "Grace",
+      "last_name": "Meng",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "M001188",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5917",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5917",
+      "opencongress": "https://www.opencongress.org/bill/hr5917-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5924-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSWM"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5924-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5924ih/html/BILLS-114hr5924ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5924ih/pdf/BILLS-114hr5924ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5924ih/xml/BILLS-114hr5924ih.xml"
+      },
+      "pages": 3
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 5924,
+    "official_title": "To provide that members of the Armed Forces performing services in the Sinai Peninsula of Egypt shall be entitled to tax benefits in the same manner as if such services were performed in a combat zone.",
+    "popular_title": null,
+    "related_bill_ids": ["s3272-114"],
+    "short_title": null,
+    "sponsor": {
+      "first_name": "Michael",
+      "last_name": "McCaul",
+      "middle_name": "T.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "M001157",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5924",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5924",
+      "opencongress": "https://www.opencongress.org/bill/hr5924-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5919-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSWM"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-18",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5919-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5919ih/html/BILLS-114hr5919ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5919ih/pdf/BILLS-114hr5919ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5919ih/xml/BILLS-114hr5919ih.xml"
+      },
+      "pages": 15
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5919,
+    "official_title": "To amend title II of the Social Security Act to improve the process by which the Social Security Administration makes disability determinations and awards disability benefits, and for other purposes.",
+    "popular_title": null,
+    "related_bill_ids": ["hr918-114", "s499-114", "s2005-114"],
+    "short_title": "Preserving and Reforming SSDI (PAR-SSDI) Act of 2016",
+    "sponsor": {
+      "first_name": "David",
+      "last_name": "Schweikert",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "S001183",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5919",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5919",
+      "opencongress": "https://www.opencongress.org/bill/hr5919-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hres839-114",
+    "bill_type": "hres",
+    "chamber": "house",
+    "committee_ids": ["HSGO"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hres839-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hres839ih/html/BILLS-114hres839ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hres839ih/pdf/BILLS-114hres839ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hres839ih/xml/BILLS-114hres839ih.xml"
+      },
+      "pages": 2
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 839,
+    "official_title": "Encouraging the people of the United States to observe \"National Lobster Day\".",
+    "popular_title": null,
+    "related_bill_ids": ["sres230-114", "sres513-114"],
+    "short_title": null,
+    "sponsor": {
+      "first_name": "Bruce",
+      "last_name": "Poliquin",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "P000611",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-resolution/839",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hres839",
+      "opencongress": "https://www.opencongress.org/bill/hres839-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5921-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSIF"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5921-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5921ih/html/BILLS-114hr5921ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5921ih/pdf/BILLS-114hr5921ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5921ih/xml/BILLS-114hr5921ih.xml"
+      },
+      "pages": 2
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 5921,
+    "official_title": "To amend title XXVII of the Public Health Service Act to change the permissible age variation in health insurance premium rates.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "State Age Rating Flexibility Act of 2016",
+    "sponsor": {
+      "first_name": "Larry",
+      "last_name": "Bucshon",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "B001275",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5921",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5921",
+      "opencongress": "https://www.opencongress.org/bill/hr5921-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5913-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSIF"],
+    "congress": 114,
+    "cosponsors_count": 3,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-18",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5913-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5913ih/html/BILLS-114hr5913ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5913ih/pdf/BILLS-114hr5913ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5913ih/xml/BILLS-114hr5913ih.xml"
+      },
+      "pages": 1
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5913,
+    "official_title": "To reauthorize the diesel emissions reduction program.",
+    "popular_title": null,
+    "related_bill_ids": ["s2012-114", "s2816-114"],
+    "short_title": "Diesel Emissions Reduction Act of 2016",
+    "sponsor": {
+      "first_name": "Renee",
+      "last_name": "Ellmers",
+      "middle_name": "L.",
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "E000291",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5913",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5913",
+      "opencongress": "https://www.opencongress.org/bill/hr5913-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5925-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSAG"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-21",
+    "last_action_at": "2016-07-21",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-21",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5925-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5925ih/html/BILLS-114hr5925ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5925ih/pdf/BILLS-114hr5925ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5925ih/xml/BILLS-114hr5925ih.xml"
+      },
+      "pages": 5
+    },
+    "last_version_on": "2016-07-21",
+    "last_vote_at": null,
+    "number": 5925,
+    "official_title": "To amend the Food and Nutrition Act of 2008 to reduce waste, fraud, and abuse in the supplemental nutrition assistance program.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "Food Stamp Integrity Act of 2016",
+    "sponsor": {
+      "first_name": "Bruce",
+      "last_name": "Poliquin",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "P000611",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5925",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5925",
+      "opencongress": "https://www.opencongress.org/bill/hr5925-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5916-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSIF"],
+    "congress": 114,
+    "cosponsors_count": 1,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-18",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5916-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5916ih/html/BILLS-114hr5916ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5916ih/pdf/BILLS-114hr5916ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5916ih/xml/BILLS-114hr5916ih.xml"
+      },
+      "pages": 2
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5916,
+    "official_title": "To amend the Federal Food, Drug, and Cosmetic Act to require the label on certain menstrual products to include an ingredient list, and for other purposes.",
+    "popular_title": null,
+    "related_bill_ids": [],
+    "short_title": "Accurate Labeling of Menstrual Products Act of 2016",
+    "sponsor": {
+      "first_name": "Grace",
+      "last_name": "Meng",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "M001188",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5916",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5916",
+      "opencongress": "https://www.opencongress.org/bill/hr5916-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }, {
+    "bill_id": "hr5915-114",
+    "bill_type": "hr",
+    "chamber": "house",
+    "committee_ids": ["HSED"],
+    "congress": 114,
+    "cosponsors_count": 0,
+    "enacted_as": null,
+    "history": {
+      "active": false,
+      "awaiting_signature": false,
+      "enacted": false,
+      "vetoed": false
+    },
+    "introduced_on": "2016-07-18",
+    "last_action_at": "2016-07-18",
+    "last_version": {
+      "version_code": "ih",
+      "issued_on": "2016-07-18",
+      "version_name": "Introduced in House",
+      "bill_version_id": "hr5915-114-ih",
+      "urls": {
+        "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5915ih/html/BILLS-114hr5915ih.htm",
+        "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5915ih/pdf/BILLS-114hr5915ih.pdf",
+        "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr5915ih/xml/BILLS-114hr5915ih.xml"
+      },
+      "pages": 2
+    },
+    "last_version_on": "2016-07-18",
+    "last_vote_at": null,
+    "number": 5915,
+    "official_title": "To amend the Occupational Safety and Health Act of 1970 to require employers to provide menstrual hygiene products for employees in workplace bathrooms.",
+    "popular_title": null,
+    "related_bill_ids": ["hr5929-114"],
+    "short_title": "Menstrual Products for Employees Act of 2016",
+    "sponsor": {
+      "first_name": "Grace",
+      "last_name": "Meng",
+      "middle_name": null,
+      "name_suffix": null,
+      "nickname": null,
+      "title": "Rep"
+    },
+    "sponsor_id": "M001188",
+    "urls": {
+      "congress": "http://beta.congress.gov/bill/114th/house-bill/5915",
+      "govtrack": "https://www.govtrack.us/congress/bills/114/hr5915",
+      "opencongress": "https://www.opencongress.org/bill/hr5915-114"
+    },
+    "withdrawn_cosponsors_count": 0
+  }],
+  "count": 47582,
+  "page": {
+    "count": 20,
+    "per_page": 20,
+    "page": 1
+  }
+}
